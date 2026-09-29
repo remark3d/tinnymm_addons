@@ -4,7 +4,9 @@ I created a CSFD.cz movies/TV shows scrapper add-on for Czech users (however, th
 
 Installation: 
 Simply copy the scraper-addon-csfd-1.0.0.jar file to the addons folder in tinyMediaManager and restart the program.
+
 ---
+
 Vytvořil jsem pro české uživatele doplněk CSFD.cz pro stahování informací o filmech a televizních pořadech (tato rozsáhlá databáze je však vícejazyčná, takže ji může využívat kdokoli).
 
 Instalace: 
